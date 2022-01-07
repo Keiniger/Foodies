@@ -2,8 +2,8 @@
 
 A simple but elegant food delivery UI made entirely with the React framwork :)
 
-[foodies-delivery.netlify.app/](https://foodies-delivery.netlify.app/)
-
-Made by Ignacio Keiniger
+URL: [https://foodies-delivery.netlify.app/](https://foodies-delivery.netlify.app/)
 
 ![App image](./Foodies.png)
+
+Made by Ignacio Keiniger
